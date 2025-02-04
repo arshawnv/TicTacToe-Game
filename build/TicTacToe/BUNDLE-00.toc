@@ -1,0 +1,3 @@
+([('TicTacToe',
+   '/Users/arshawn/Desktop/CMPSC Projects/Completed/TicTacToe/dist/TicTacToe',
+   'EXECUTABLE')],)
