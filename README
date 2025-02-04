@@ -1,0 +1,51 @@
+Tic-Tac-Toe Game 🎮
+
+This is a simple Tic-Tac-Toe game built using Python and Tkinter, providing a graphical user interface (GUI) for an interactive experience. The game allows two players to compete against each other in a classic 3x3 Tic-Tac-Toe match.
+
+📥 Download & Run
+
+Mac Users
+
+Download the game from the GitHub Releases.
+
+Unzip the file if it is compressed.
+
+Run the game:
+
+If you see a security warning, right-click on TicTacToe.app, select "Open", and approve the execution.
+
+Alternatively, go to System Preferences → Security & Privacy → General and click "Allow Anyway".
+
+Windows Users
+
+Download the executable from the GitHub Releases.
+
+Run TicTacToe.exe (No installation required!).
+
+If Windows Defender blocks it, click "More Info" → "Run Anyway".
+
+Run from Source Code (For Developers)
+
+If you prefer to run the game from the Python source code:
+
+Install Python (if not already installed) from python.org.
+
+Clone this repository:
+
+git clone https://github.com/YOUR_USERNAME/TicTacToe.git
+cd TicTacToe
+
+Run the game:
+
+python TicTacToe.py
+
+🛠️ Features
+
+✅ Simple and interactive GUI using Tkinter
+✅ Two-player gameplay
+✅ Winning combinations detection
+✅ Restart button to play again
+✅ Lightweight and easy to run
+
+Enjoy the game! 🎉
+                
